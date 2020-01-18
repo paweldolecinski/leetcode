@@ -1,13 +1,11 @@
 package pl.dolecinski.leetcode;
 
-import org.junit.jupiter.params.provider.Arguments;
-
 import java.util.Arrays;
 import java.util.Random;
-import java.util.stream.Stream;
 
 /**
  * https://leetcode.com/problems/shuffle-an-array/
+ * Fisher-Yates Algorithm
  */
 public class ShuffleArray {
 
