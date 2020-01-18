@@ -15,5 +15,14 @@ repositories {
 }
 
 dependencies {
-    testImplementation("junit:junit:4.12")
+    implementation("org.junit.jupiter:junit-jupiter:5.5.2")
+}
+
+sourceSets.test {
+    java.srcDir("src/main/java")
+    resources.srcDir("src/main/resources")
+}
+
+tasks.test {
+    useJUnitPlatform()
 }
