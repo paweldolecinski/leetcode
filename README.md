@@ -11,4 +11,5 @@
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Java | Hard |
 | 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | Java | Medium |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | Java | Hard |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Java | Medium |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | Java | Medium |
