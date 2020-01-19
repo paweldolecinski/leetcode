@@ -14,3 +14,4 @@
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | Java | Hard |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Java | Medium |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | Java | Medium |
+| 146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Java | Medium |
