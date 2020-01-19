@@ -7,6 +7,7 @@
 |---| ----- | -------- | ---------- |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Java | Medium |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Java | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Java | Medium |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Java | Hard |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | Java | Medium |
