@@ -15,7 +15,8 @@ public class EditDistance {
     private static Stream<Arguments> testCases() {
         return Stream.of(
             Arguments.of("sea", "eat", 2),
-            Arguments.of("delete", "leet", 403)
+            Arguments.of("delete", "leet", 3),
+            Arguments.of("horse", "ros", 3)
         );
     }
 
