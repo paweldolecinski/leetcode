@@ -5,8 +5,11 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Java | Easy |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Java | Easy |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Java | Medium |
 | 72  | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Java | Hard |
+| 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Java | Medium |
 | 81  | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Java | Medium |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Java | Medium |
