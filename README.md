@@ -8,6 +8,7 @@
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Java | Easy |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Java | Easy |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Java | Medium |
+| 61  | [Rotate List](https://leetcode.com/problems/rotate-list/) | Java | Medium |
 | 72  | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Java | Hard |
 | 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Java | Medium |
 | 81  | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Java | Medium |
