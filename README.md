@@ -27,6 +27,7 @@
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Java | Medium |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Java | Medium |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Java | Medium |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | Java | Easy |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Java | Easy |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Java | Medium |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | Java | Medium |
