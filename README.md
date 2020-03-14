@@ -16,6 +16,8 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Java | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Java | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | Easy |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Java | Easy |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Java | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Java | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Java | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | Easy |
